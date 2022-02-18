@@ -19,7 +19,5 @@
     "url": "https://github.com/mart-anthony-stark/Alamano.js/issues"
   },
   "homepage": "https://github.com/mart-anthony-stark/Alamano.js#readme",
-  "dependencies": {
-    "unnamed-js": "^1.0.1"
-  }
+  "dependencies": {}
 }
